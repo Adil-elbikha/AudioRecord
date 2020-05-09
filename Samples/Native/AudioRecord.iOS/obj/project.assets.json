@@ -1,0 +1,153 @@
+{
+  "version": 3,
+  "targets": {
+    "Xamarin.iOS,Version=v1.0": {
+      "Plugin.AudioRecorder/1.1.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System",
+          "System.Core",
+          "System.Xml",
+          "Xamarin.iOS"
+        ],
+        "compile": {
+          "lib/xamarinios10/Plugin.AudioRecorder.dll": {}
+        },
+        "runtime": {
+          "lib/xamarinios10/Plugin.AudioRecorder.dll": {}
+        }
+      }
+    },
+    "Xamarin.iOS,Version=v1.0/win": {
+      "Plugin.AudioRecorder/1.1.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System",
+          "System.Core",
+          "System.Xml",
+          "Xamarin.iOS"
+        ],
+        "compile": {
+          "lib/xamarinios10/Plugin.AudioRecorder.dll": {}
+        },
+        "runtime": {
+          "lib/xamarinios10/Plugin.AudioRecorder.dll": {}
+        }
+      }
+    },
+    "Xamarin.iOS,Version=v1.0/win-x64": {
+      "Plugin.AudioRecorder/1.1.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System",
+          "System.Core",
+          "System.Xml",
+          "Xamarin.iOS"
+        ],
+        "compile": {
+          "lib/xamarinios10/Plugin.AudioRecorder.dll": {}
+        },
+        "runtime": {
+          "lib/xamarinios10/Plugin.AudioRecorder.dll": {}
+        }
+      }
+    },
+    "Xamarin.iOS,Version=v1.0/win-x86": {
+      "Plugin.AudioRecorder/1.1.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System",
+          "System.Core",
+          "System.Xml",
+          "Xamarin.iOS"
+        ],
+        "compile": {
+          "lib/xamarinios10/Plugin.AudioRecorder.dll": {}
+        },
+        "runtime": {
+          "lib/xamarinios10/Plugin.AudioRecorder.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Plugin.AudioRecorder/1.1.0": {
+      "sha512": "qa8tAuqWeIKfnFLVKhGgaHhbtw7T2Ec/5smgJstyatQ97uViUIqAVTpzdyij11VOovxTGXO4xBBkYanJmzv21g==",
+      "type": "package",
+      "path": "plugin.audiorecorder/1.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/monoandroid81/Plugin.AudioRecorder.dll",
+        "lib/monoandroid81/Plugin.AudioRecorder.dll.mdb",
+        "lib/monoandroid81/Plugin.AudioRecorder.pdb",
+        "lib/netcore50/Plugin.AudioRecorder.dll",
+        "lib/netcore50/Plugin.AudioRecorder.pdb",
+        "lib/netstandard2.0/Plugin.AudioRecorder.dll",
+        "lib/netstandard2.0/Plugin.AudioRecorder.pdb",
+        "lib/portable45-net45+win8+wpa81/Plugin.AudioRecorder.dll",
+        "lib/xamarinios10/Plugin.AudioRecorder.dll",
+        "lib/xamarinios10/Plugin.AudioRecorder.pdb",
+        "plugin.audiorecorder.1.1.0.nupkg.sha512",
+        "plugin.audiorecorder.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "Xamarin.iOS,Version=v1.0": [
+      "Plugin.AudioRecorder >= 1.1.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ELBIKHA\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\ELBIKHA\\Desktop\\fin projet c#\\Plugin.AudioRecorder-master\\Samples\\Native\\AudioRecord.iOS\\AudioRecord.iOS.csproj",
+      "projectName": "AudioRecord.iOS",
+      "projectPath": "C:\\Users\\ELBIKHA\\Desktop\\fin projet c#\\Plugin.AudioRecorder-master\\Samples\\Native\\AudioRecord.iOS\\AudioRecord.iOS.csproj",
+      "packagesPath": "C:\\Users\\ELBIKHA\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ELBIKHA\\Desktop\\fin projet c#\\Plugin.AudioRecorder-master\\Samples\\Native\\AudioRecord.iOS\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\ELBIKHA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "xamarinios10"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "xamarinios10": {
+        "dependencies": {
+          "Plugin.AudioRecorder": {
+            "target": "Package",
+            "version": "[1.1.0, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

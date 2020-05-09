@@ -1,0 +1,2 @@
+C:\Users\ELBIKHA\Desktop\projet AudioRecordC#\Plugin.AudioRecorder.UWP\obj\Debug\Plugin.AudioRecorder.UWP.csprojAssemblyReference.cache
+C:\Users\ELBIKHA\Desktop\projet AudioRecordC#\Plugin.AudioRecorder.UWP\obj\Debug\Plugin.AudioRecorder.UWP.csproj.CoreCompileInputs.cache

@@ -1,0 +1,6 @@
+C:\Users\ELBIKHA\Desktop\projet AudioRecordC#\Plugin.AudioRecorder.Android\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+C:\Users\ELBIKHA\Desktop\projet AudioRecordC#\Plugin.AudioRecorder.Android\obj\Debug\81\Plugin.AudioRecorder.Android.nuget.stamp
+C:\Users\ELBIKHA\Desktop\projet AudioRecordC#\Plugin.AudioRecorder.Android\obj\Debug\81\Plugin.AudioRecorder.Android.csprojAssemblyReference.cache
+C:\Users\ELBIKHA\Desktop\projet AudioRecordC#\Plugin.AudioRecorder.Android\obj\Debug\81\libraryimports.cache.stamp
+C:\Users\ELBIKHA\Desktop\projet AudioRecordC#\Plugin.AudioRecorder.Android\obj\Debug\81\res.flag
+C:\Users\ELBIKHA\Desktop\projet AudioRecordC#\Plugin.AudioRecorder.Android\obj\Debug\81\Plugin.AudioRecorder.Android.csproj.CoreCompileInputs.cache

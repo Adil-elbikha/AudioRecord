@@ -1,0 +1,24 @@
+C:\Users\ELBIKHA\Desktop\Plugin.AudioRecorder-master\Samples\Forms\AudioRecord.Forms\bin\Debug\netstandard2.0\AudioRecord.Forms.deps.json
+C:\Users\ELBIKHA\Desktop\Plugin.AudioRecorder-master\Samples\Forms\AudioRecord.Forms\bin\Debug\netstandard2.0\AudioRecord.Forms.dll
+C:\Users\ELBIKHA\Desktop\Plugin.AudioRecorder-master\Samples\Forms\AudioRecord.Forms\bin\Debug\netstandard2.0\AudioRecord.Forms.pdb
+C:\Users\ELBIKHA\Desktop\Plugin.AudioRecorder-master\Samples\Forms\AudioRecord.Forms\obj\Debug\netstandard2.0\AudioRecord.Forms.csprojAssemblyReference.cache
+C:\Users\ELBIKHA\Desktop\Plugin.AudioRecorder-master\Samples\Forms\AudioRecord.Forms\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ELBIKHA\Desktop\Plugin.AudioRecorder-master\Samples\Forms\AudioRecord.Forms\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ELBIKHA\Desktop\Plugin.AudioRecorder-master\Samples\Forms\AudioRecord.Forms\obj\Debug\netstandard2.0\AudioRecord.Forms.csproj.CoreCompileInputs.cache
+C:\Users\ELBIKHA\Desktop\Plugin.AudioRecorder-master\Samples\Forms\AudioRecord.Forms\obj\Debug\netstandard2.0\AudioRecord.Forms.AssemblyInfoInputs.cache
+C:\Users\ELBIKHA\Desktop\Plugin.AudioRecorder-master\Samples\Forms\AudioRecord.Forms\obj\Debug\netstandard2.0\AudioRecord.Forms.AssemblyInfo.cs
+C:\Users\ELBIKHA\Desktop\Plugin.AudioRecorder-master\Samples\Forms\AudioRecord.Forms\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ELBIKHA\Desktop\Plugin.AudioRecorder-master\Samples\Forms\AudioRecord.Forms\obj\Debug\netstandard2.0\AudioRecord.Forms.dll
+C:\Users\ELBIKHA\Desktop\Plugin.AudioRecorder-master\Samples\Forms\AudioRecord.Forms\obj\Debug\netstandard2.0\AudioRecord.Forms.pdb
+C:\Users\ELBIKHA\Desktop\projet AudioRecordC#\Samples\Forms\AudioRecord.Forms\bin\Debug\netstandard2.0\AudioRecord.Forms.deps.json
+C:\Users\ELBIKHA\Desktop\projet AudioRecordC#\Samples\Forms\AudioRecord.Forms\bin\Debug\netstandard2.0\AudioRecord.Forms.dll
+C:\Users\ELBIKHA\Desktop\projet AudioRecordC#\Samples\Forms\AudioRecord.Forms\bin\Debug\netstandard2.0\AudioRecord.Forms.pdb
+C:\Users\ELBIKHA\Desktop\projet AudioRecordC#\Samples\Forms\AudioRecord.Forms\obj\Debug\netstandard2.0\AudioRecord.Forms.csprojAssemblyReference.cache
+C:\Users\ELBIKHA\Desktop\projet AudioRecordC#\Samples\Forms\AudioRecord.Forms\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ELBIKHA\Desktop\projet AudioRecordC#\Samples\Forms\AudioRecord.Forms\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ELBIKHA\Desktop\projet AudioRecordC#\Samples\Forms\AudioRecord.Forms\obj\Debug\netstandard2.0\AudioRecord.Forms.csproj.CoreCompileInputs.cache
+C:\Users\ELBIKHA\Desktop\projet AudioRecordC#\Samples\Forms\AudioRecord.Forms\obj\Debug\netstandard2.0\AudioRecord.Forms.AssemblyInfoInputs.cache
+C:\Users\ELBIKHA\Desktop\projet AudioRecordC#\Samples\Forms\AudioRecord.Forms\obj\Debug\netstandard2.0\AudioRecord.Forms.AssemblyInfo.cs
+C:\Users\ELBIKHA\Desktop\projet AudioRecordC#\Samples\Forms\AudioRecord.Forms\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ELBIKHA\Desktop\projet AudioRecordC#\Samples\Forms\AudioRecord.Forms\obj\Debug\netstandard2.0\AudioRecord.Forms.dll
+C:\Users\ELBIKHA\Desktop\projet AudioRecordC#\Samples\Forms\AudioRecord.Forms\obj\Debug\netstandard2.0\AudioRecord.Forms.pdb

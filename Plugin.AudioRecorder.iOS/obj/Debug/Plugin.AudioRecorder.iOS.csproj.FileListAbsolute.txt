@@ -1,0 +1,3 @@
+C:\Users\ELBIKHA\Desktop\projet AudioRecordC#\Plugin.AudioRecorder.iOS\obj\Debug\optimized\
+C:\Users\ELBIKHA\Desktop\projet AudioRecordC#\Plugin.AudioRecorder.iOS\obj\Debug\Plugin.AudioRecorder.iOS.csprojAssemblyReference.cache
+C:\Users\ELBIKHA\Desktop\projet AudioRecordC#\Plugin.AudioRecorder.iOS\obj\Debug\Plugin.AudioRecorder.iOS.csproj.CoreCompileInputs.cache
